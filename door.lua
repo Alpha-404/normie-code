@@ -1,3 +1,5 @@
+--put inside a part in studio that you want to become a door
+--i hate coding
 local open = false
 
 script.Parent.Touched:Connect(function(hit)
